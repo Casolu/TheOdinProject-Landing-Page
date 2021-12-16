@@ -1,3 +1,9 @@
+/*TODO
+    header max width
+    consistent scaling
+*/
+
+
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -12,14 +18,13 @@ body {
 .header {
     display: flex;
     gap: 32px;
-    padding: 8px;
+    padding: 8px 100px;
     align-items: center;
 }
 
 .logo {
     font-size: 24px;
     font-weight: bolder;
-    padding-left: 100px;
 }
 
 a {
