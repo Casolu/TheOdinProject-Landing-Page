@@ -115,3 +115,29 @@ button {
     font-weight: bold;
     font-size: 24px;
 }
+
+.body4 {
+    color: #E5E7EB;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 32px 64px;
+    width: 700px;
+}
+
+.call {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button2 {
+    display: inline-block;
+    width: auto;
+    white-space: nowrap;
+    margin: 32px;
+    padding: 8px 32px;
+    border: 2px solid #E5E7EB;
+}
